@@ -84,6 +84,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 | **[🏥 Hospital Management System](https://github.com/Yasir897/hospital-management-system-cpp)** | Full hospital system in C++ with OOP & file handling — doctors, patients, pharmacy, blood bank & more | `C++` `OOP` |
 | **[🛍️ Online Clothing Store](https://github.com/Yasir897/online-clothing-store-php)** | E-commerce web app with cart, checkout, accounts & admin panel | `PHP` `MySQL` |
 | **[🎨 Dynamic Portfolio](https://github.com/Yasir897/Yasir_Portfolio)** | Database-driven personal portfolio — fully admin-managed & live | `Django` `Python` |
+| **[🏨 Hotel Management (DSA)](https://github.com/Yasir897/hotel-management-dsa-cpp)** | Hotel system in C++ showcasing Linked Lists, Queue & Stack working together | `C++` `DSA` |
 | **[✈️ Flight Management System](https://github.com/Yasir897/flight-management-system-cpp)** | Airline reservation system in C++ using inheritance & OOP | `C++` `OOP` |
 | **[🤖 WhatsApp Sender](https://github.com/Yasir897/whatsapp-sender)** | Python automation to send bulk WhatsApp messages via Selenium | `Python` `Selenium` |
 
