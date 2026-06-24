@@ -42,8 +42,10 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -62,6 +64,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 
 #### Databases & Tools
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
@@ -78,10 +81,11 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[🤖 AI Route Optimization](https://github.com/Yasir897/ai-route-optimization)** | Route-finding agent using BFS, DFS, UCS & A* on real OpenStreetMap data, with a Streamlit comparison dashboard | `Python` `Streamlit` |
+| **[🏥 Hospital Management System](https://github.com/Yasir897/hospital-management-system-cpp)** | Full hospital system in C++ with OOP & file handling — doctors, patients, pharmacy, blood bank & more | `C++` `OOP` |
+| **[🛍️ Online Clothing Store](https://github.com/Yasir897/online-clothing-store-php)** | E-commerce web app with cart, checkout, accounts & admin panel | `PHP` `MySQL` |
 | **[🎨 Dynamic Portfolio](https://github.com/Yasir897/Yasir_Portfolio)** | Database-driven personal portfolio — fully admin-managed & live | `Django` `Python` |
-| **[🤖 WhatsApp Sender](https://github.com/Yasir897/whatsapp-sender)** | Python automation to send bulk WhatsApp messages via Selenium & WhatsApp Web | `Python` `Selenium` |
-| **[🎨 Prints Masterpiece](https://github.com/Yasir897/prints-animated-masterpiece)** | Animated marketing website for a print-on-demand service | `Next.js` `TypeScript` |
-| **[🎬 Watch Party](https://github.com/Yasir897/watch-party)** | Watch videos in sync with friends — Socket.io + browser extension | `Node.js` `Socket.io` |
+| **[✈️ Flight Management System](https://github.com/Yasir897/flight-management-system-cpp)** | Airline reservation system in C++ using inheritance & OOP | `C++` `OOP` |
+| **[🤖 WhatsApp Sender](https://github.com/Yasir897/whatsapp-sender)** | Python automation to send bulk WhatsApp messages via Selenium | `Python` `Selenium` |
 
 ---
 
