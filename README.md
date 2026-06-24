@@ -29,7 +29,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 - 🔭 Currently building full-stack apps with **Next.js** & **Django**
 - 🌱 Learning **AI / Machine Learning** and **mobile development** (Kotlin)
 - 💼 Open to **freelance & internship** opportunities
-- 🌐 Live portfolio → **[yasir897.pythonanywhere.com](https://yasir897.pythonanywhere.com)**
+- 🌐 Live portfolio → **[yasir897.github.io](https://yasir897.github.io)**
 - 📫 Reach me → **yasir007naeem@gmail.com**
 
 </div>
@@ -109,7 +109,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
   <a href="https://www.linkedin.com/in/yasir-naeem-a5176a321/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://yasir897.pythonanywhere.com">
+  <a href="https://yasir897.github.io">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:yasir007naeem@gmail.com">
