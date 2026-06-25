@@ -1,13 +1,13 @@
 <!-- ===== Banner ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:EC4899&height=220&section=header&text=Yasir%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Django%20%C2%B7%20React&descAlignY=60&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:EC4899&height=220&section=header&text=Yasir%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20React&descAlignY=60&descSize=18" alt="banner"/>
 
 <!-- ===== Animated subtitle ===== -->
 <p align="center">
   <a href="https://github.com/Yasir897">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+web+apps+with+Next.js+%26+Django;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Strong+foundation+in+C%2B%2B+%26+Python;Building+web+apps+with+React%2C+Next.js+%26+Django;Exploring+AI+%26+Automation+%F0%9F%A4%96" alt="Typing SVG"/>
   </a>
 </p>
- 
+
 <!-- ===== Visitor + follow badges ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views"/>
@@ -22,12 +22,13 @@
 
 <div align="justify">
 
-I'm a **Full-Stack Developer** based in **Lahore, Pakistan** 🇵🇰, focused on building fast, modern web applications. I work across the stack with **Next.js**, **React**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
+I'm a **Full-Stack Developer** 🇵🇰 with a solid foundation in **C++** and a good command of **Python**, comfortable across both frontend and backend. I build complete web applications with **React**, **Next.js**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
 
 Beyond web development, I love exploring **AI and search algorithms** — from route-optimization agents to automation tools. I'm always learning, building side projects, and looking for opportunities to collaborate and grow.
 
-- 🔭 Currently building full-stack apps with **Next.js** & **Django**
-- 🌱 Learning **AI / Machine Learning** and **mobile development** (Kotlin)
+- 🔭 Building full-stack web apps with **React**, **Next.js** & **Django**
+- 💪 Strong foundation in **C++** & good command of **Python**
+- 🌱 Exploring **AI**, **search algorithms** & **automation**
 - 💼 Open to **freelance & internship** opportunities
 - 🌐 Live portfolio → **[yasir897.github.io](https://yasir897.github.io)**
 - 📫 Reach me → **yasir007naeem@gmail.com**
