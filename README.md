@@ -93,12 +93,12 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasir897&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasir897&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir897&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir897&theme=dracula&hide_border=true&v=2"/>
 </p>
 
 ---
@@ -121,5 +121,3 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6D28D9&height=120&section=footer"/>
 
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
-
-<!-- profile re-register 1782371865 -->
