@@ -121,3 +121,5 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6D28D9&height=120&section=footer"/>
 
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
+
+<!-- profile refresh -->
