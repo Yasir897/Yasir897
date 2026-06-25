@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+from+Lahore+%F0%9F%87%B5%F0%9F%87%B0;Building+web+apps+with+Next.js+%26+Django;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new" alt="Typing SVG"/>
   </a>
 </p>
-
+ 
 <!-- ===== Visitor + follow badges ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views"/>
