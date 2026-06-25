@@ -122,4 +122,4 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
 
-<!-- profile refresh -->
+<!-- profile re-register 1782371865 -->
