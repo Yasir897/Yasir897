@@ -113,7 +113,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
   <a href="https://yasir897.github.io">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:yasir007naeem@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasir007naeem@gmail.com&su=Hello%20Yasir!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
