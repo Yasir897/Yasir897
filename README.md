@@ -137,3 +137,4 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 
 <!-- keep building -->
 <!-- open to opportunities -->
+<!-- built together -->
