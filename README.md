@@ -94,8 +94,8 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yasir897&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2"/>
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Yasir897&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2"/>
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2"/>
 </p>
 
 <p align="center">
