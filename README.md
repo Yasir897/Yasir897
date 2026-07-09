@@ -99,7 +99,19 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasir897&theme=dracula&hide_border=true&v=2"/>
+  <img src="https://streak-stats.demolab.com/?user=Yasir897&theme=dracula&hide_border=true&v=2"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yasir897/Yasir897/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
