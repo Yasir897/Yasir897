@@ -136,3 +136,4 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
 
 <!-- keep building -->
+<!-- open to opportunities -->
