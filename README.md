@@ -8,6 +8,7 @@
   </a>
 </p>
 
+
 <!-- ===== Visitor + follow badges ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views"/>
@@ -18,11 +19,11 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Mee
 
 <div align="justify">
 
-I'm a **Full-Stack Developer** 🇵🇰 with a solid foundation in **C++** and a good command of **Python**, comfortable across both frontend and backend. I build complete web applications with **React**, **Next.js**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
+I'm a **FFull-Stack Developer** 🇵🇰 with a solid foundation in **C++** and a good command of **Python**, comfortable across both frontend and backend. I build complete web applications with **React**, **Next.js**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
 
 Beyond web development, I love exploring **AI and search algorithms** — from route-optimization agents to automation tools. I'm always learning, building side projects, and looking for opportunities to collaborate and grow.
 
