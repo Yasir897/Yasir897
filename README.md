@@ -1,19 +1,19 @@
 <!-- ===== Banner ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:EC4899&height=220&section=header&text=Yasir%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20React&descAlignY=60&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,45:EC4899,100:22D3EE&height=220&section=header&text=Yasir%20Naeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Django%20%C2%B7%20React&descAlignY=60&descSize=18" alt="banner"/>
 
 <!-- ===== Animated subtitle ===== -->
 <p align="center">
   <a href="https://github.com/Yasir897">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Strong+foundation+in+C%2B%2B+%26+Python;Building+web+apps+with+React%2C+Next.js+%26+Django;Exploring+AI+%26+Automation+%F0%9F%A4%96" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;Strong+foundation+in+C%2B%2B+%26+Python;Building+web+apps+with+React%2C+Next.js+%26+Django;Exploring+AI+%26+Automation+%F0%9F%A4%96" alt="Typing SVG"/>
   </a>
 </p>
 
 
 <!-- ===== Visitor + follow badges ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=A855F7&style=flat" alt="profile views"/>
   <a href="https://github.com/Yasir897?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yasir897?label=Followers&style=flat&color=8B5CF6" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/Yasir897?label=Followers&style=flat&color=A855F7" alt="followers"/>
   </a>
 </p>
 
@@ -95,12 +95,12 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Yasir897&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2"/>
-  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=2"/>
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Yasir897&show_icons=true&theme=aura&hide_border=true&count_private=true&v=2"/>
+  <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Yasir897&layout=compact&theme=aura&hide_border=true&langs_count=8&v=2"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yasir897&theme=dracula&hide_border=true&v=2"/>
+  <img src="https://streak-stats.demolab.com/?user=Yasir897&theme=dracula&hide_border=true&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&v=2"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yasir897.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=yasir007naeem@gmail.com&su=Hello%20Yasir!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -132,7 +132,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 </p>
 
 <!-- ===== Footer ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6D28D9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,55:EC4899,100:A855F7&height=120&section=footer"/>
 
 <p align="center"><i>⭐️ Thanks for visiting — let's build something great together!</i></p>
 
