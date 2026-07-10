@@ -11,7 +11,7 @@
 
 <!-- ===== ASCII Portrait ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii.svg" alt="ASCII portrait" width="460"/>
+  <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii.svg" alt="ASCII portrait" width="200"/>
 </p>
 
 <!-- ===== Visitor + follow badges ===== -->
