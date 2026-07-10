@@ -9,12 +9,22 @@
 </p>
 
 
-<!-- ===== ASCII Portrait ===== -->
+<!-- ===== Portrait options (TEMP - pick one) ===== -->
+<p align="center"><b>Option A — ASCII</b></p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-light.svg">
-    <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-light.svg" alt="ASCII portrait" width="480"/>
+    <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-light.svg" alt="ASCII portrait" width="420"/>
+  </picture>
+</p>
+
+<p align="center"><b>Option B — Halftone dots</b></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-halftone-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-halftone-light.svg">
+    <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-halftone-light.svg" alt="Halftone portrait" width="380"/>
   </picture>
 </p>
 
