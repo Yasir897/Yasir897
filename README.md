@@ -9,6 +9,11 @@
 </p>
 
 
+<!-- ===== ASCII Portrait ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii.svg" alt="ASCII portrait" width="500"/>
+</p>
+
 <!-- ===== Visitor + follow badges ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasir897&label=Profile%20views&color=B347F0&style=flat" alt="profile views"/>
