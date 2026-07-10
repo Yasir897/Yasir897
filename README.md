@@ -17,13 +17,13 @@
   </a>
 </p>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 🚀 About Mee
 
 <div align="justify">
 
-I'm a **FFull-Stack Developer** 🇵🇰 with a solid foundation in **C++** and a good command of **Python**, comfortable across both frontend and backend. I build complete web applications with **React**, **Next.js**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
+I'm a **Full-Stack Developer** 🇵🇰 with a solid foundation in **C++** and a good command of **Python**, comfortable across both frontend and backend. I build complete web applications with **React**, **Next.js**, and **Django**, and I enjoy turning ideas into clean, production-ready products.
 
 Beyond web development, I love exploring **AI and search algorithms** — from route-optimization agents to automation tools. I'm always learning, building side projects, and looking for opportunities to collaborate and grow.
 
@@ -36,7 +36,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 
 </div>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +76,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 📌 Featured Projects
 
@@ -90,7 +90,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
 | **[✈️ Flight Management System](https://github.com/Yasir897/flight-management-system-cpp)** | Airline reservation system in C++ using inheritance & OOP | `C++` `OOP` |
 | **[🤖 WhatsApp Sender](https://github.com/Yasir897/whatsapp-sender)** | Python automation to send bulk WhatsApp messages via Selenium | `Python` `Selenium` |
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 📊 GitHub Stats
 
@@ -103,7 +103,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
   <img src="https://streak-stats.demolab.com/?user=Yasir897&theme=dracula&hide_border=true&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&v=2"/>
 </p>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 🐍 Contribution Snake
 
@@ -115,7 +115,7 @@ Beyond web development, I love exploring **AI and search algorithms** — from r
   </picture>
 </p>
 
----
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:22D3EE&height=3"/>
 
 ## 🤝 Connect With Me
 
