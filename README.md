@@ -11,7 +11,11 @@
 
 <!-- ===== ASCII Portrait ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii.svg" alt="ASCII portrait" width="500"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-light.svg">
+    <img src="https://raw.githubusercontent.com/Yasir897/Yasir897/main/yasir-ascii-light.svg" alt="ASCII portrait" width="480"/>
+  </picture>
 </p>
 
 <!-- ===== Visitor + follow badges ===== -->
